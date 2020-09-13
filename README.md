@@ -21,7 +21,7 @@ Usage of SayHello for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/sayhello
+git clone https://github.com/fh-rabbi/sayhello
 cd sayhello
 bash sayhello.sh
 ```
